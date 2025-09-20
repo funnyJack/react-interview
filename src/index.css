@@ -10,3 +10,7 @@ body {
 .active{
   font-weight: bold;
 }
+.search-button{
+  display: flex;
+  justify-content: flex-end;
+}
